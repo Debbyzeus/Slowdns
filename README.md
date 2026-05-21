@@ -1,1 +1,4 @@
 # Slowdns
+
+Direct link
+wget 
