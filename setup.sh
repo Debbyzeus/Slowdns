@@ -1,5 +1,5 @@
 #!/bin/bash
-# SlowDNS over SSH Setup Script for Ubuntu/Debian
+# SlowDNS over SSH Setup Script for Ubuntu/Debian by DEBBYZEUS
 # 1. Update system packages
 apt update -y && apt upgrade -y
 apt install -y git wget curl build-essential golang iptables
